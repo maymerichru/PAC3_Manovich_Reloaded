@@ -54,6 +54,8 @@ En conclusió, ChatGPT representa una forma avançada d’hibridació cultural o
 
 Els dos casos analitzats en aquest assaig posen de manifest com la intel·ligència artificial no introdueix simplement noves eines, sinó que consolida una lògica cultural profundament governada pel programari. Tant Midjourney com ChatGPT funcionen com a sistemes híbrids que automatitzen la producció visual i textual, redefinint conceptes com autoria, creativitat i mitjà.
 
+Des d’una perspectiva manovichiana, ambdós exemples confirmen la vigència dels principis dels nous mitjans, especialment l’automatització, la variabilitat i la modularitat. El contingut ja no és un producte tancat, sinó el resultat d’un procés generatiu basat en dades, algoritmes i interfícies de programari. En aquest sentit, Midjourney i ChatGPT podrien formar part d’una hipotètica segona edició d’*El software toma el mando*, com a exemples representatius de com el programari continua prenent el comandament de la cultura digital contemporània.
+
 ---
 
 ## Referències i recursos
@@ -62,7 +64,4 @@ Els dos casos analitzats en aquest assaig posen de manifest com la intel·ligèn
 - Midjourney. https://www.midjourney.com
 - OpenAI. ChatGPT. https://openai.com/chatgpt
 - Manovich, L. (2001). *The Language of New Media*. MIT Press.
-
-
-Des d’una perspectiva manovichiana, ambdós exemples confirmen la vigència dels principis dels nous mitjans, especialment l’automatització, la variabilitat i la modularitat. El contingut ja no és un producte tancat, sinó el resultat d’un procés generatiu basat en dades, algoritmes i interfícies de programari. En aquest sentit, Midjourney i ChatGPT podrien formar part d’una hipotètica segona edició d’*El software toma el mando*, com a exemples representatius de com el programari continua prenent el comandament de la cultura digital contemporània.
 
