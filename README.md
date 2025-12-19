@@ -46,5 +46,13 @@ La noció de base de dades és també fonamental per comprendre el funcionament 
 
 Un altre element rellevant és la dimensió temporal i processual del text generat. Cada resposta de ChatGPT és contingent, dependent del context de la conversa i de les instruccions proporcionades per l’usuari. Això introdueix una variabilitat constant que contrasta amb la fixesa del text imprès o fins i tot del text digital tradicional. El llenguatge esdevé així un flux adaptable, sempre susceptible de ser reformulat, ampliat o corregit mitjançant noves interaccions amb el sistema.
 
-En conclusió, ChatGPT representa una forma avançada d’hibridació cultural on llenguatge, coneixement i programari convergeixen en una mateixa interfície. La seva capacitat per automatitzar, modular i generar contingut textual de manera interactiva exemplifica plenament els principis analitzats per Lev Manovich. Aquest sistema no només il·lustra com el programari pren el comandament del llenguatge, sinó que també redefineix les condicions culturals de la comunicació i l’autoria, convertint ChatGPT en un cas idoni per formar part d’una hipotètica segona edició d’*El software toma el mando*.
+En conclusió, ChatGPT representa una forma avançada d’hibridació cultural on llenguatge, coneixement i programari convergeixen en una mateixa interfície. La seva capacitat per automatitzar, modular i generar contingut textual de manera interactiva exemplifica plenament els principis analitzats per Lev Manovich. Aquest sistema no només il·lustra com el programari pren el comandament del llenguatge, sinó que també redefineix les condicions culturals de la comunicació i l’autoria, convertint ChatGPT també en un cas idoni per formar part d’una hipotètica segona edició d’*El software toma el mando*.
+
+---
+
+## Conclusions generals
+
+Els dos casos analitzats en aquest assaig posen de manifest com la intel·ligència artificial no introdueix simplement noves eines, sinó que consolida una lògica cultural profundament governada pel programari. Tant Midjourney com ChatGPT funcionen com a sistemes híbrids que automatitzen la producció visual i textual, redefinint conceptes com autoria, creativitat i mitjà.
+
+Des d’una perspectiva manovichiana, ambdós exemples confirmen la vigència dels principis dels nous mitjans, especialment l’automatització, la variabilitat i la modularitat. El contingut ja no és un producte tancat, sinó el resultat d’un procés generatiu basat en dades, algoritmes i interfícies de programari. En aquest sentit, Midjourney i ChatGPT podrien formar part d’una hipotètica segona edició d’*El software toma el mando*, com a exemples representatius de com el programari continua prenent el comandament de la cultura digital contemporània.
 
